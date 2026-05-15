@@ -1,0 +1,14 @@
+D:\Programming\C#\less2\hm1\TcpNetwork\ChatServer\bin\Debug\net10.0\ChatServer.exe
+D:\Programming\C#\less2\hm1\TcpNetwork\ChatServer\bin\Debug\net10.0\ChatServer.deps.json
+D:\Programming\C#\less2\hm1\TcpNetwork\ChatServer\bin\Debug\net10.0\ChatServer.runtimeconfig.json
+D:\Programming\C#\less2\hm1\TcpNetwork\ChatServer\bin\Debug\net10.0\ChatServer.dll
+D:\Programming\C#\less2\hm1\TcpNetwork\ChatServer\bin\Debug\net10.0\ChatServer.pdb
+D:\Programming\C#\less2\hm1\TcpNetwork\ChatServer\obj\Debug\net10.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\less2\hm1\TcpNetwork\ChatServer\obj\Debug\net10.0\ChatServer.AssemblyInfoInputs.cache
+D:\Programming\C#\less2\hm1\TcpNetwork\ChatServer\obj\Debug\net10.0\ChatServer.AssemblyInfo.cs
+D:\Programming\C#\less2\hm1\TcpNetwork\ChatServer\obj\Debug\net10.0\ChatServer.csproj.CoreCompileInputs.cache
+D:\Programming\C#\less2\hm1\TcpNetwork\ChatServer\obj\Debug\net10.0\ChatServer.dll
+D:\Programming\C#\less2\hm1\TcpNetwork\ChatServer\obj\Debug\net10.0\refint\ChatServer.dll
+D:\Programming\C#\less2\hm1\TcpNetwork\ChatServer\obj\Debug\net10.0\ChatServer.pdb
+D:\Programming\C#\less2\hm1\TcpNetwork\ChatServer\obj\Debug\net10.0\ChatServer.genruntimeconfig.cache
+D:\Programming\C#\less2\hm1\TcpNetwork\ChatServer\obj\Debug\net10.0\ref\ChatServer.dll

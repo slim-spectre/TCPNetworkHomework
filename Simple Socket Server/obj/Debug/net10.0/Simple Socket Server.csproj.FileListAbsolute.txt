@@ -1,0 +1,14 @@
+D:\Programming\C#\less2\hm1\TcpNetwork\Simple Socket Server\bin\Debug\net10.0\Simple Socket Server.exe
+D:\Programming\C#\less2\hm1\TcpNetwork\Simple Socket Server\bin\Debug\net10.0\Simple Socket Server.deps.json
+D:\Programming\C#\less2\hm1\TcpNetwork\Simple Socket Server\bin\Debug\net10.0\Simple Socket Server.runtimeconfig.json
+D:\Programming\C#\less2\hm1\TcpNetwork\Simple Socket Server\bin\Debug\net10.0\Simple Socket Server.dll
+D:\Programming\C#\less2\hm1\TcpNetwork\Simple Socket Server\bin\Debug\net10.0\Simple Socket Server.pdb
+D:\Programming\C#\less2\hm1\TcpNetwork\Simple Socket Server\obj\Debug\net10.0\Simple Socket Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\less2\hm1\TcpNetwork\Simple Socket Server\obj\Debug\net10.0\Simple Socket Server.AssemblyInfoInputs.cache
+D:\Programming\C#\less2\hm1\TcpNetwork\Simple Socket Server\obj\Debug\net10.0\Simple Socket Server.AssemblyInfo.cs
+D:\Programming\C#\less2\hm1\TcpNetwork\Simple Socket Server\obj\Debug\net10.0\Simple Socket Server.csproj.CoreCompileInputs.cache
+D:\Programming\C#\less2\hm1\TcpNetwork\Simple Socket Server\obj\Debug\net10.0\Simple Socket Server.dll
+D:\Programming\C#\less2\hm1\TcpNetwork\Simple Socket Server\obj\Debug\net10.0\refint\Simple Socket Server.dll
+D:\Programming\C#\less2\hm1\TcpNetwork\Simple Socket Server\obj\Debug\net10.0\Simple Socket Server.pdb
+D:\Programming\C#\less2\hm1\TcpNetwork\Simple Socket Server\obj\Debug\net10.0\Simple Socket Server.genruntimeconfig.cache
+D:\Programming\C#\less2\hm1\TcpNetwork\Simple Socket Server\obj\Debug\net10.0\ref\Simple Socket Server.dll
